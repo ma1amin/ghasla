@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💧 GHASLA | غسلا
+# 💧 GHASLA | غسلة
 
 ### Run every wash. See every opportunity.
 ### منصة تشغيل ونمو ذكية لمغاسل السيارات
@@ -211,6 +211,6 @@ The package metadata declares MIT; this snapshot does not include a standalone l
 
 **💧 GHASLA — clearer operations, better customer journeys.**
 
-غسلا — تشغيل أوضح، وتجربة عميل أفضل.
+غسلة — تشغيل أوضح، وتجربة عميل أفضل.
 
 </div>
